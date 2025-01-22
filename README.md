@@ -65,7 +65,7 @@ API RESTful giúp quản lý sách trong một của hàng sáng, được xây 
 ![image](https://github.com/user-attachments/assets/b8705be7-07d6-4586-850e-3f2a6dfbb6e5)
 
 ### Thêm mới một sách vào Collection Books.
-![image](https://github.com/user-attachments/assets/6b1c2b54-86e2-4f99-86c0-b219c7197496)
+![image](https://github.com/user-attachments/assets/6eedeaa4-4649-43b4-9be1-d8f03eb5c08e)
 
 ### Cập nhật thông tin của sách dựa vào id.
 ![image](https://github.com/user-attachments/assets/8ce33da0-9196-434c-a7ce-74f574ff5d21)
@@ -73,6 +73,8 @@ API RESTful giúp quản lý sách trong một của hàng sáng, được xây 
 ### Xóa một sách dựa vào id.
 ![image](https://github.com/user-attachments/assets/0964052b-aaad-42a2-a068-3924d925064f)
 
+### DataStore cập nhật trong MongoCompass
+![image](https://github.com/user-attachments/assets/6a5e776f-1b24-4ac6-829b-066894ecef3f)
 
 
 
