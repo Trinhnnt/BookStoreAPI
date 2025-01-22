@@ -36,4 +36,8 @@ API RESTful giúp quản lý sách trong một của hàng sáng, được xây 
 
 ### Các bước thực hiện
 1. Thiết lập cơ sở dữ liệu
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/79a3e60f-c323-4c44-aeda-3bff4c42ba1a)
+" alt="Giao diện Swagger UI" width="600">
+</p>
 2. 
