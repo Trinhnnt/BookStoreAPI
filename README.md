@@ -33,10 +33,8 @@ API RESTful giúp quản lý sách trong một của hàng sáng, được xây 
 
 ### Các bước thực hiện
 1. Thiết lập cơ sở dữ liệu
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/79a3e60f-c323-4c44-aeda-3bff4c42ba1a)
-" alt="Giao diện Swagger UI" width="600">
-</p>
+![image](https://github.com/user-attachments/assets/71f4d036-12cf-4adf-8939-b12357c672be)
+
 2. Thêm Configuration Model.
 -Class **BookStoreDatabaseSettings** : Chứa các thuộc tính cần thiết cho kết nối cơ sở dữ liệu. Được sử dụng để ánh xạ với cấu hình trong appsettings.json.
 - Class **Book**: Định nghĩa cấu trúc dữ liệu được lưu trữ trong MongoDB. Mỗi thuộc tính tương ứng với một trường trong collection của MongoDB.
