@@ -33,6 +33,7 @@ API RESTful giúp quản lý sách trong một của hàng sáng, được xây 
 
 ### Các bước thực hiện
 1. Thiết lập cơ sở dữ liệu
+
 ![image](https://github.com/user-attachments/assets/71f4d036-12cf-4adf-8939-b12357c672be)
 
 2. Thêm Configuration Model.
